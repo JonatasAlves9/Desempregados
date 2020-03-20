@@ -1,0 +1,7 @@
+{
+  "name": "Desempregados",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
